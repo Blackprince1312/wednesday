@@ -1,0 +1,22 @@
+img {
+  float: left;
+}
+
+img {
+  border: 2px solid grey;
+  height: 330px;
+  width: 400px;
+  margin: 3px;
+  box-sizing: border-box;
+}
+
+.image-number {
+  float: left;
+  margin: 350px -400px;
+}
+
+.image-caption {
+  float: left;
+  margin: 350px -180px
+}
+.image-footer{}
