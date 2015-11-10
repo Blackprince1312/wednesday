@@ -1,3 +1,8 @@
+.octadex{list-style:none;
+}
+.octocat{list-style:none;
+  float:left;}
+
 img {
   float: left;
 }
@@ -13,10 +18,17 @@ img {
 .image-number {
   float: left;
   margin: 350px -400px;
+  color:grey;
 }
 
 .image-caption {
   float: left;
-  margin: 350px -180px
+  margin: 350px -280px;
+    color:grey;
 }
-.image-footer{}
+.image-footer
+
+.authors img{width:30px;
+height:30px;
+
+  ul.authors{padding:0;}
